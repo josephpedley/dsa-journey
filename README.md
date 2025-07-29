@@ -1,36 +1,36 @@
-# 🚀 DSA Journey
+#  DSA Journey
 
 This repo documents my complete learning path through Data Structures and Algorithms — focused on core concepts, efficient patterns, and top interview problems.
 ---
 
-## 🧭 Roadmap
+##  Roadmap
 
-### ✅ Phase 1 – Core Foundations
+###  Phase 1 – Core Foundations
 - [x] Arrays
 - [x] Hashing (Map + Set)
 
-### 🔁 Phase 2 – Pointer Movement & Order
+###  Phase 2 – Pointer Movement & Order
 - [ ] Two Pointers
 - [ ] Stack
 
-### 🧠 Phase 3 – Search & Optimization
+###  Phase 3 – Search & Optimization
 - [ ] Binary Search
 - [ ] Sliding Window
 
-### 🔗 Phase 4 – Structure & Recursion
+###  Phase 4 – Structure & Recursion
 - [ ] Linked List
 - [ ] Recursion + Backtracking
 - [ ] Trees
 - [ ] Graphs
 
-### ⚙️ Phase 5 – Advanced Tools
+###  Phase 5 – Advanced Tools
 - [ ] Heap / Priority Queue
 - [ ] Trie
 - [ ] Union-Find (Disjoint Set Union)
 - [ ] Dynamic Programming
 
 ---
-Each topic folder contains:
+Each topic folder will contain:
 
 - 🔹 Clear topic overview with definitions and time complexities  
 - 🔹 Essential code implementations (clean, commented)  
